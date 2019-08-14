@@ -1,0 +1,12 @@
+{
+  "dims": [
+    200, 
+    200
+  ],
+  "inputFormat" : "tif",
+  "ext" : "tif",
+  "dtype": "int8",
+  "DiffImageFolder": "Final_residual_Images",
+  "ConstructedImageFolder": "ConstructedImages",
+  "refImageId": 4
+}
